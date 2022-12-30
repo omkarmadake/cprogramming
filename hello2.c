@@ -1,3 +1,4 @@
+//wap to enter a number display that is pallindrome or not
 #include <stdio.h>
 void main(){
     int n,t,r,rev = 0;

@@ -1,3 +1,4 @@
+//wap to enter a number display that is prime or not
 #include <stdio.h>
 void main(){
     int n,i,m=0,flag=0;
