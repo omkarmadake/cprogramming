@@ -1,4 +1,5 @@
-//wap to enter a number and display it is armstrog number or not
+// wap to enter a number and display it is armstrog number or not - BY OMKAR_MADAKE
+
 #include<stdio.h>
 void main(){
    int n,t,r,s=0;
